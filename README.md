@@ -21,7 +21,7 @@ This is a simple e-commerce store built with **HTML/CSS/JavaScript** for the fro
 ### **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/ecommerce-store.git
+git clone https://github.com/DarkenSoda/Simple_E-Commerce.git
 cd Simple_E-Commerce
 ```
 
